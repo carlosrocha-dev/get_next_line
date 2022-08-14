@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### :rocket: Working in progress :hammer_and_wrench:
+### :rocket: Finished 125/125 :hammer_and_wrench:
  ![W.I.P.](https://progress-bar.dev/100/?scale=100&title=level&width=500&color=8AB58&suffix=%)
 
 </div>
